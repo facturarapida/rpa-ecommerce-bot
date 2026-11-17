@@ -38,6 +38,8 @@ DETALLE  A Light in the Attic: It's hard to imagine a world without A Light...
 
 `output/precios_2026-11-17.csv`:
 
+![captura real de la ejecucion](evidencia.png)
+
 | fecha        | producto               | precio | disponibilidad |
 |--------------|------------------------|--------|---------------|
 | 2026-11-17   | A Light in the Attic   | £51.77 | In stock      |
